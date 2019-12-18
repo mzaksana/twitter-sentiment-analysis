@@ -1,3 +1,4 @@
 data/crawl/**
 data/out/**
 data/backup/**
+.idea/**
