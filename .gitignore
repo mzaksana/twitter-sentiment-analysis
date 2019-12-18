@@ -2,6 +2,6 @@ data/crawl/**
 data/out/**
 data/backup/**
 .idea/**
-**/idea/**
+**/.idea/**
 *.json
 *.txt
