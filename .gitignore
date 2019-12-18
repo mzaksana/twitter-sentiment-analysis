@@ -1,3 +1,3 @@
-./data/crawl
-./data/out
-./data/backup
+./data/crawl/**
+./data/out/**
+./data/backup/**
