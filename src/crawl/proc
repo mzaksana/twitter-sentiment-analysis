@@ -1,0 +1,27 @@
+python crawl.py -search "bandara" -store_json True -output ../../data/crawl/bandara.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "bagasi hilang" -store_json True -output ../../data/crawl/bagasi-hilang.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "penerbangan" -store_json True -output ../../data/crawl/penerbangan.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "xpress air" -store_json True -output ../../data/crawl/xpress-air.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "TransNusa" -store_json True -output ../../data/crawl/TransNusa.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "asia airline" -store_json True -output ../../data/crawl/asia-airline.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "susi air" -store_json True -output ../../data/crawl/susi-air.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "sriwijaya air" -store_json True -output ../../data/crawl/sriwijaya-air.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "lion air" -store_json True -output ../../data/crawl/lion-air.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "citilink" -store_json True -output ../../data/crawl/citilink.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "batik air" -store_json True -output ../../data/crawl/batik-air.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "aviastar" -store_json True -output ../../data/crawl/aviastar.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "asia airline" -store_json True -output ../../data/crawl/asia-airline.json -since 2010-01-01 -lang id -retries_count 100 
+
+python crawl.py -search "garuda indonesia" -store_json True -output ../../data/crawl/garuda-indonesia.json -since 2010-01-01 -lang id -retries_count 100 
